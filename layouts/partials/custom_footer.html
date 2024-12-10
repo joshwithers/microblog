@@ -1,0 +1,19 @@
+
+
+
+
+<footer class="site-footer">
+
+  <div class="wrapper">
+    {{ if templates.Exists "partials/microhook-footer.html" }}
+    {{ partial "microhook-footer.html" . }}
+    {{ else }}
+    <p class="custom_footer">{{ partial "custom_footer.html" . }}</p>
+    {{ end }}
+<p><span style="margin: auto; padding: 2em; text-decoration: none!important; text-decoration-line: none; font-size: 1em;"><a style="text-decoration: none!important; text-decoration-line: none; font-size: 1.7em;" href="https://tinylytics.app/public/NM2HQsVLhg1zw58uNBug">𝝅</a> <a style="text-decoration: none!important; text-decoration-line: none;" href="https://social.lol/@withers" rel="me">🐘</a> </span></p>
+
+<p class="attribution custom_footer"><img style=" float: left; vertical-align: middle;height: 24px; margin-top: -2px; margin-right: 6px; width: 24px;" src="https://joshwithers.blog/uploads/2024/withers.png" alt="Withers Co." loading="lazy">A part of <a class="text-blue-600 underline" href="https://withers.co"> Withers Co.</a> · All rights reserved.</p>
+  </div>
+
+</footer>
+

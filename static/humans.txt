@@ -1,0 +1,17 @@
+/* DESIGNER */
+
+Name: Matt Langford
+Web: mattlangford.com
+Contact: hi [at] matt langford dot com
+Twitter/X: @mattslangford
+Micro.blog: @mtt
+Mastodon: @matt@mattlangford.com
+From: Louisiana, USA
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Software: Hugo, Git, Nova
+Design Repo: https://github.com/MattSLangford/Tiny-Theme-for-Micro.blog
+Theme Documentation Site: https://tiny.micro.blog
+Hosted by: https://micro.blog

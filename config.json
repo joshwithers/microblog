@@ -1,0 +1,27 @@
+{
+  "title": "Withers Without You",
+  "baseURL": "https://joshwithers.blog/",
+  "languageCode": "en",
+  "enableRobotsTXT": true,
+  "params": {
+    "description": "Follow <a href=\"https://micro.blog/joshua\">@joshua on Micro.blog</a>.",
+    "itunes_description": "💍 I help people smile big and feel good in their wedding ceremony, an Aussie marriage celebrant 📷 Landscape, travel, and street photographer 👑 Toasted sandwich expert 🇦🇺 Tasmania",
+    "itunes_category": "Society & Culture",
+    "itunes_subcategory": "Personal Journals",
+    "itunes_author": "Josh Withers",
+    "itunes_email": "josh@withers.co",
+    "itunes_cover": "https://micro.blog/joshua/podcast.png",
+    "author": {
+      "name": "Josh Withers",
+      "avatar": "https://micro.blog/joshua/avatar.jpg",
+      "username": "joshua"
+    },
+    "twitter_username": "joshuawithers",
+    "github_username": "joshwithers",
+    "instagram_username": "hellojoshwithers",
+    "site_id": "359",
+    "theme_seconds": "1733786051",
+    "tinylytics_id": "uvC-9D5NG-CW1xXWKW3y",
+    "tinylytics_emoji": "👋🏽",
+    "color_plugin_html": "#004d65",
+    "

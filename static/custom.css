@@ -1,0 +1,16 @@
+.site-header {
+	text-align: center;
+}
+
+body {
+    font-family: var(--font_geometric_humanist);
+}
+
+
+h2 a:any-link {
+text-decoration-line: none;
+}
+
+.dt-published {
+font-weight: 600;
+}

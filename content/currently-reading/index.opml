@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <body>
+    <outline type="collection" text="Currently reading">
+      <outline type="book" text="The Bayern Agenda" name="The Bayern Agenda" author="Dan Moren" isbn="9780857668202"/>
+      <outline type="book" text="Burn-In: A Novel of the Real Robotic Revolution" name="Burn-In: A Novel of the Real Robotic Revolution" author="P. W. Singer" isbn="9781328637239"/>
+      <outline type="book" text="The Almanack Of Naval Ravikant" name="The Almanack Of Naval Ravikant" author="Eric Jorgenson" isbn="9789354893940"/>
+      <outline type="book" text="Surrender" name="Surrender" author="Bono" isbn="9780525521044"/>
+      <outline type="book" text="Strong Fathers, Strong Daughters" name="Strong Fathers, Strong Daughters" author="Meg Meeker" isbn="9781596980372"/>
+    </outline>
+  </body>
+</opml>
